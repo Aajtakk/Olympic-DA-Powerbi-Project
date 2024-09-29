@@ -12,4 +12,4 @@ Analyse the dataset and review the following problem statements.
 5. Total Number of Participating Countries 
 6. Total Number of Sports.
 ## Dashboard
-"D:\Pammi\Powerbi\PBI\Olympic-Dashboard-screenshot.png"
+![Uploading Olympic-Dashboard-screenshot.png…]()
