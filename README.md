@@ -11,6 +11,11 @@ Analyse the dataset and review the following problem statements.
 4. Top Olympic Medallists by Total Medals 
 5. Total Number of Participating Countries 
 6. Total Number of Sports.
+## Process
+1. Data Collection: Olympic data is gathered from trusted sources and checked for accuracy.
+2. Data Visualization: Interactive Power BI dashboards and charts are created to provide clear understanding.
+3. Data Analysis: Patterns, trends, and top performers are identified.
+4. Visualization Refinement: Charts and graphs are perfected for maximum clarity.
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/d64beba6-3d2c-4c76-9b4d-6264c4d5522b)
 # Project Insights & Action Plan
