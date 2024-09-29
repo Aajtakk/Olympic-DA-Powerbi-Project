@@ -12,4 +12,5 @@ Analyse the dataset and review the following problem statements.
 5. Total Number of Participating Countries 
 6. Total Number of Sports.
 ## Dashboard
-![Uploading Olympic-Dashboard-screenshot.png…]()
+![image](https://github.com/user-attachments/assets/d64beba6-3d2c-4c76-9b4d-6264c4d5522b)
+
