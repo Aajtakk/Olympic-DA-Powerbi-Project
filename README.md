@@ -11,3 +11,5 @@ Analyse the dataset and review the following problem statements.
 4. Top Olympic Medallists by Total Medals 
 5. Total Number of Participating Countries 
 6. Total Number of Sports.
+## Dashboard
+"D:\Pammi\Powerbi\PBI\Olympic-Dashboard-screenshot.png"
