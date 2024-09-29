@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/96e4c69e-0c66-44ea-a1a0-e200594d6540)# Olympic-DA-Powerbi-Project (Interactive Dashboard Creation using Power BI)
+# Olympic-DA-Powerbi-Project (Interactive Dashboard Creation using Power BI)
 ## Project Overview
 Explore Olympic Games data through interactive visualizations. This Power BI project analyzes medal counts, athlete performance, and geographic trends from 1900 to present.
 # Dataset Used
